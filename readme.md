@@ -1,2 +1,1 @@
-NLP sentiment analysis using deep neural network and LSTM
-delete other things in new3
+NLP sentiment analysis using deep neural network and LSTM, a recurrent neural network.

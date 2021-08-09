@@ -1,0 +1,4 @@
+Remember to add git ignore file.
+Personal access token:
+SSH key:
+Github password: 
